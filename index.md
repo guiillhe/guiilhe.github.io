@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to my page.
 
-You can use the [editor on GitHub](https://github.com/guiillhe/guiilhe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Quem sou eu?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Eu sou o Guilherme, também conhecido como Guillhe, tenho 35 anos e estou em transição de carreira, tenho aprendido muito sobre programação coisa que eu sempre curti, mas sempre tive medo de seguir em frente por ter um pouco de medo de transicionar de carreira, afinal na cultura atual do nosso país é difícil deixar a estabiidade da carreira públicae partir para o mercado de trabalho "comum".
 
-### Markdown
+## Experiencias profissionais.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Como citado anteriormente, sou concursado como vigia na prefeitura de Jjandaia do Sul desde agosto de 2020.
+Atualmente também presto serviço para a FAFIJAN na área de estrutura de rede e manutenção dos computadores da faculdade desde janeiro desse ano.
+Já trabalhei também como professor, tanto para o estado do Paraná enquanto recem formado na minha primeira faculdade, e como professor de música depois de um tempo.
 
-```markdown
-Syntax highlighted code block
+## Objetivo do meu repositório.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guiillhe/guiilhe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bom o objetivo desse repositório, penso eu, seja o mesmo de todo o programador iniciante: 
+Mostrar um pouco do que eu desenvolvo para os recrutadores (#mecontrata) e para alguns amigos dev's que eu tenho.
